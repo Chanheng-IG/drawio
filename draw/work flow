@@ -1,9 +1,51 @@
-<mxfile host="app.diagrams.net" modified="2023-05-12T10:06:52.719Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" version="21.2.9" etag="oVq0YYB-uazJBlEvQCc-" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-12T10:25:07.616Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="beyFIuPUGGMUrfajxfwF" version="21.2.9" type="github">
   <diagram name="Page-1" id="6jnShYX2VENJT7KOSsGs">
-    <mxGraphModel>
+    <mxGraphModel dx="954" dy="552" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="szdbSWF0srwj7ph6ma6D-3" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="szdbSWF0srwj7ph6ma6D-1" target="szdbSWF0srwj7ph6ma6D-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="szdbSWF0srwj7ph6ma6D-1" value="Customer" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/users.svg;" vertex="1" parent="1">
+          <mxGeometry x="70" y="110" width="33" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="szdbSWF0srwj7ph6ma6D-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="szdbSWF0srwj7ph6ma6D-2" target="szdbSWF0srwj7ph6ma6D-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="szdbSWF0srwj7ph6ma6D-2" value="Receptionist" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#515151;shape=mxgraph.mscae.system_center.admin_console" vertex="1" parent="1">
+          <mxGeometry x="210" y="117" width="50" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="szdbSWF0srwj7ph6ma6D-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="szdbSWF0srwj7ph6ma6D-4" target="szdbSWF0srwj7ph6ma6D-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="szdbSWF0srwj7ph6ma6D-4" value="input customer info" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="305" y="105" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="szdbSWF0srwj7ph6ma6D-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="szdbSWF0srwj7ph6ma6D-6" target="szdbSWF0srwj7ph6ma6D-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="szdbSWF0srwj7ph6ma6D-6" value="consultant" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="305" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="szdbSWF0srwj7ph6ma6D-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="szdbSWF0srwj7ph6ma6D-8" target="szdbSWF0srwj7ph6ma6D-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="szdbSWF0srwj7ph6ma6D-8" value="Service" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="305" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="szdbSWF0srwj7ph6ma6D-10" value="" style="image;html=1;image=img/lib/clip_art/people/Doctor_Man_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="360" y="190" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="szdbSWF0srwj7ph6ma6D-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="szdbSWF0srwj7ph6ma6D-11" target="szdbSWF0srwj7ph6ma6D-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="szdbSWF0srwj7ph6ma6D-11" value="Payment" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="305" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="szdbSWF0srwj7ph6ma6D-13" value="Appointment" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="305" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
